@@ -1,4 +1,4 @@
----
+  ---
 title: "Projects"
 output:
   quarto::quarto_html:
@@ -10,7 +10,7 @@ output:
 
 Here is the Youtube link: -
 
-<a href="https://youtu.be/oRzrxBoEOOs" target="_blank">https://youtu.be/oRzrxBoEOOs</a>
+{{< video https://youtu.be/oRzrxBoEOOs >}}
 
 ## Title: Using R to Redesign Statistical Graphs: 
 
